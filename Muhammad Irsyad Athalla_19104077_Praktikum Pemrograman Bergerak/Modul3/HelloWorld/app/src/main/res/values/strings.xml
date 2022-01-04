@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum3</string>
+    <string name="lbl_name">Nama Mahasiswa</string>
+    <string name="my_name">Muhammad Irsyad Athalla</string>
+    <string name="lbl_nim">Nim Mahasiswa</string>
+    <string name="my_nim">19104077</string>
+</resources>
