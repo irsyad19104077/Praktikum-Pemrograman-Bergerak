@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="setting">setting</string>
+    <string name="default_theme">default_theme</string>
+    <string name="tv_theme">tv_theme</string>
+    <string name="default_age">default_age</string>
+    <string name="age">age</string>
+    <string name="default_phone">default_phone</string>
+    <string name="phone">phone</string>
+    <string name="default_email">default_email</string>
+    <string name="email">email</string>
+    <string name="default_name">default_name</string>
+    <string name="name">name</string>
+    <string name="save">save</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="dark_theme">dark_theme</string>
+    <string name="phone_number">phone_number</string>
+    <string name="setting_page">setting_page</string>
+    <string name="field_digit_only">field_digit_only</string>
+    <string name="field_required">field_required</string>
+    <string name="email_is_not_valid">email_is_not_valid</string>
+    <string name="main_title">main_title</string>
+</resources>
